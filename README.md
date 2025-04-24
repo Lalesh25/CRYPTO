@@ -1,6 +1,10 @@
 # Real-Time Crypto Price Tracker
 
 ## Description
+
+https://github.com/user-attachments/assets/53f388db-016b-4fbf-93d8-b961376d846c
+
+
 A React application that tracks cryptocurrency prices in real-time. It uses Redux Toolkit for state management and provides a clean, responsive UI to display crypto data.
 
 1) npm install
